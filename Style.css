@@ -3,7 +3,7 @@ body{
     background-color: black;
 }
 .card{
-background: url('/imagem\ css/background.png');no repeat;
+background: url('./imagem css/background.png');no repeat;
 width: 400px;
 height: 200px;
 background-size: cover;
@@ -17,10 +17,10 @@ text-decoration: none;
 color: black;
 }
 .Instagram{
-list-style-image: url('imagem\ css/insta.png');
+list-style-image: url('./imagem css/insta.png');
 }
 .Facebook{
-list-style-image: url('imagem\ css/facec.png');
+list-style-image: url('./imagem css/facec.png');
 }
 
 
